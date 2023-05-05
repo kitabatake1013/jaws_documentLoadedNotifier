@@ -1,0 +1,2 @@
+# jaws_documentLoadedNotifier
+Webページなどの読み込み完了時、クリック音を鳴らしてすぐに内容の読み上げが始まるようにするJAWSスクリプト
