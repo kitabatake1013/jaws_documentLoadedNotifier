@@ -9,13 +9,12 @@ Webページなどの読み込み完了時、クリック音を鳴らしてす�
 
 ## JAWSへの組み込み
 
-本リポジトリの`script`ディレクトリの中身を、JAWSの個人設定フォルダにコピーする。
-
-その後、`default.jss`に以下を追記して保存・コンパイルする。
-
-```
-use "documentLoadedNotifier.jsb"
-```
+1. `git clone`するなり、`Download ZIP`するなりして、このリポジトリの中身を取得する。
+1. `script`ディレクトリの中身を、JAWSの個人設定フォルダにコピーする。
+1. `default.jss`に以下を追記して保存・コンパイルする。
+   ```
+   use "documentLoadedNotifier.jsb"
+   ```
 
 ## ライセンス
 
